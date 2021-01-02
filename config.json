@@ -4,11 +4,13 @@
   "name": "Bjørn Hansen",
   "userimg": "https://avatars1.githubusercontent.com/u/55191733?v=4",
   "sort": "created",
-  "order": "desc",
+  "order": "asc",
   "includeFork": false,
   "theme": "light.css",
   "types": [
    "all"
-  ]
+  ],
+  "linkedin": "www.linkedin.com/in/bjorn-hansen-4958b4107",
+  "medium": "https://bjornkhansen95.medium.com/"
  }
 ]
