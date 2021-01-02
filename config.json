@@ -4,9 +4,9 @@
   "name": "Bjørn Hansen",
   "userimg": "https://avatars1.githubusercontent.com/u/55191733?v=4",
   "sort": "created",
-  "order": "desc",
+  "order": "asc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
    "all"
   ]
