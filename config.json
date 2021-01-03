@@ -6,11 +6,13 @@
   "sort": "created",
   "order": "desc",
   "includeFork": false,
-  "theme": "light.css",
+  "theme": "dark.css",
   "types": [
-   "all"
+   "owner"
   ],
   "linkedin": "bjorn-hansen-4958b4107",
-  "medium": "bjornkhansen95"
+  "medium": "bjornkhansen95",
+  "twitter": null,
+  "dribbble": null
  }
 ]
